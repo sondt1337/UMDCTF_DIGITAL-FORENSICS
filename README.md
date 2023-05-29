@@ -433,4 +433,4 @@ Thank goodness! If I hadn't discovered this by accident before the competition w
 
 In this competition, I think the forensics challenges were not too difficult overall (even the newbie-level could be accessed by around 7 out of 8 tasks). However, some tasks were overly reliant on guessing, which made it a bit frustrating for forensic enthusiasts.
 
-Thanks to Hwi for helping me identify some misconceptions in the `YARA Trainer Gym` challenge and to everyone in `BKSEC` for constantly encouraging me to improve my skills in forensic challenges digital.
+Thanks to `Hwi#9932` for helping me identify some misconceptions in the `YARA Trainer Gym` challenge and to everyone in `BKSEC` for constantly encouraging me to improve my skills in forensic challenges digital.
