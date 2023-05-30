@@ -18,8 +18,7 @@ In this writeup, I will provide solutions for the challenges in ascending order 
 ### Malware Chall Disclaimer
 
 ![](/image/chall1.png)
-
-For this challenge, I'll provide a hint for the `Doctor Hate Him` challenge, and I'll discuss that challenge later. Here, I've already given the flag.
+This challenge provided hint to the `Doctor Hate Him` challenge, and I'll discuss that later. Here, they have given the flag.
 
 **UMDCTF{i_understand_that_malware_chall_is_sus}**
 
