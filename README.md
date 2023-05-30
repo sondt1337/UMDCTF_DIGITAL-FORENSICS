@@ -1,7 +1,7 @@
 ## Writeups - UMDCTF 2023 - Forensics 
 ### Information
 
-`UMDCTF 2023` starts at 5:00 AM on April 29, 2023, and ends at 5:00 AM on May 1, 2023 (which is not at all suitable for someone like me who loves to sleep in). The challenges in this competition revolve around the theme of **Pokemon**.
+`UMDCTF 2023` starts at 5:00 AM on April 29, 2023, and ends at 5:00 AM on May 1, 2023 (which is not at all suitable for someone like me who loves to sleep in). The challenges in this competition revolve around **Pokemon**.
 
 ### The team's ranking at the end of the competition.
 
