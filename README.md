@@ -309,32 +309,7 @@ Next, I will combine these two files together. To make it easier with a large nu
 
 In this challenge, we obtained a GIF file where each frame of the GIF represents a QR code. I wrote a script to separate the QR codes and decode them simultaneously.
 
-```py
-import os
-import glob
-from PIL import Image
-from pyzbar.pyzbar import decode
-
-# Replace 'path/to/folder' with the actual path to the folder containing the QR codes
-folder_path = 'qrcodes/'
-output_file = 'qr_codes.txt'
-
-# Create a list of all the image files in the folder
-image_files = glob.glob(os.path.join(folder_path, '*.jpg'))
-
-# Open the output file for writing
-with open(output_file, 'w') as f:
-    # Loop over each image file in the folder
-    for image_file in image_files:
-        # Open the image and decode the QR code
-        image = Image.open(image_file)
-        qr_code = decode(image)
-
-        # If a QR code was detected, write the URL to the output file
-        if qr_code:
-            url = qr_code[0].data.decode()
-            f.write(url + '\n')
-```
+Here is my [script.py](/script/chall6)
 
 After running the script, we obtained a bunch of base64 strings, which were then converted into a PDF file. You can view the decoded flag in the [decode flag](/File/decode.pdf).
 
