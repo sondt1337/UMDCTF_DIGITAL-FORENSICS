@@ -309,7 +309,7 @@ Next, I will combine these two files together. To make it easier with a large nu
 
 In this challenge, we obtained a GIF file where each frame of the GIF represents a QR code. I wrote a script to separate the QR codes and decode them simultaneously.
 
-Here is my [script_6.py](/script/chall6)
+Here is my [script_6.py](/script/script_6.py)
 
 After running the script, we obtained a bunch of base64 strings, which were then converted into a PDF file. You can view the decoded flag in the [decode flag](/File/decode.pdf).
 
